@@ -1,0 +1,34 @@
+{
+  "banner.title": "Wir verwenden Cookies.",
+
+  "banner.message.start": "Durch Klicken auf „Alle akzeptieren“ stimmen Sie der Speicherung von Cookies auf Ihrem Gerät zu, um die Navigation auf der Website zu verbessern, die Nutzung der Website zu analysieren und unsere Marketingaktivitäten zu unterstützen. Weitere Informationen finden Sie in unserer",
+  "banner.message.link": "Cookie-Richtlinie",
+  "banner.message.end": ".",
+
+  "cta.prefs": "Einstellungen",
+  "cta.reject": "Alle ablehnen",
+  "cta.accept": "Alle akzeptieren",
+
+  "modal.title": "Cookie-Einstellungen verwalten.",
+
+  "modal.essential.title": "Essenziell",
+  "modal.essential.state": "Immer aktiv",
+  "modal.essential.desc": "Diese Cookies sind für das Funktionieren der Website erforderlich, z. B. um Ihre Datenschutzeinstellungen zu speichern oder sichere Zahlungen zu ermöglichen.",
+
+  "modal.performance.title": "Leistung",
+  "modal.performance.desc": "Diese Cookies helfen uns zu verstehen, wie Besucher unsere Website nutzen, um sie zu verbessern.",
+
+  "modal.personalization.title": "Personalisierung",
+  "modal.personalization.desc": "Diese Cookies ermöglichen es der Website, sich Ihre Einstellungen (z. B. Sprache oder Region) zu merken und erweiterte Funktionen bereitzustellen.",
+
+  "modal.advertising.title": "Werbung & Targeting",
+  "modal.advertising.desc": "Diese Cookies werden verwendet, um relevante Werbung anzuzeigen, deren Häufigkeit zu begrenzen und die Kampagnenleistung zu messen.",
+
+  "modal.save": "Einstellungen speichern",
+  "modal.reject": "Alle ablehnen",
+  "modal.accept": "Alle akzeptieren",
+
+  "modal.footer.pre": "Sie können diese Einstellungen jederzeit über unsere",
+  "modal.footer.link": "Cookie-Richtlinienseite",
+  "modal.footer.post": "oder über das Cookie-Widget unten links auf der Seite ändern."
+}
