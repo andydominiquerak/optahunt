@@ -1,0 +1,34 @@
+{
+  "banner.title": "Wij gebruiken cookies.",
+
+  "banner.message.start": "Door op «Alles accepteren» te klikken, stemt u in met het opslaan van cookies op uw apparaat om de navigatie op de website te verbeteren, het gebruik van de website te analyseren en onze marketinginspanningen te ondersteunen. Bekijk ons",
+  "banner.message.link": "Cookiebeleid",
+  "banner.message.end": "voor meer informatie.",
+
+  "cta.prefs": "Voorkeuren",
+  "cta.reject": "Alles weigeren",
+  "cta.accept": "Alles accepteren",
+
+  "modal.title": "Beheer uw cookievoorkeuren.",
+
+  "modal.essential.title": "Essentieel",
+  "modal.essential.state": "Altijd actief",
+  "modal.essential.desc": "Deze cookies zijn noodzakelijk voor de werking van de website, zoals het onthouden van uw privacy-instellingen, u ingelogd houden of het mogelijk maken van veilige betalingen.",
+
+  "modal.performance.title": "Prestatie",
+  "modal.performance.desc": "Deze cookies helpen ons te begrijpen hoe bezoekers onze website gebruiken, zodat we deze kunnen verbeteren.",
+
+  "modal.personalization.title": "Personalisatie",
+  "modal.personalization.desc": "Deze cookies stellen de website in staat om uw voorkeuren (zoals taal of regio) te onthouden en verbeterde functies aan te bieden.",
+
+  "modal.advertising.title": "Advertenties en targeting",
+  "modal.advertising.desc": "Deze cookies worden gebruikt om relevante advertenties te tonen, de frequentie te beperken en de prestaties van campagnes te meten.",
+
+  "modal.save": "Mijn voorkeuren opslaan",
+  "modal.reject": "Alles weigeren",
+  "modal.accept": "Alles accepteren",
+
+  "modal.footer.pre": "U kunt deze instellingen op elk moment wijzigen via onze",
+  "modal.footer.link": "pagina Cookiebeleid",
+  "modal.footer.post": "of via de cookiewidget linksonder op de pagina."
+}

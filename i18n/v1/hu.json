@@ -1,0 +1,34 @@
+{
+  "banner.title": "Sütiket használunk.",
+
+  "banner.message.start": "Az „Összes elfogadása” gombra kattintva hozzájárulsz a sütik eszközödön történő tárolásához a webhely navigációjának javítása, a használat elemzése és marketingtevékenységeink támogatása érdekében. Tekintsd meg",
+  "banner.message.link": "Süti szabályzatunkat",
+  "banner.message.end": "további információért.",
+
+  "cta.prefs": "Beállítások",
+  "cta.reject": "Összes elutasítása",
+  "cta.accept": "Összes elfogadása",
+
+  "modal.title": "Süti beállítások kezelése.",
+
+  "modal.essential.title": "Alapvető",
+  "modal.essential.state": "Mindig aktív",
+  "modal.essential.desc": "Ezek a sütik szükségesek a weboldal megfelelő működéséhez, például a adatvédelmi beállítások megjegyzéséhez vagy a biztonságos fizetések engedélyezéséhez.",
+
+  "modal.performance.title": "Teljesítmény",
+  "modal.performance.desc": "Ezek a sütik segítenek megérteni, hogyan használják a látogatók a weboldalt, hogy javíthassuk azt.",
+
+  "modal.personalization.title": "Személyre szabás",
+  "modal.personalization.desc": "Ezek a sütik lehetővé teszik, hogy a webhely megjegyezze a beállításaidat (például nyelv vagy régió) és fejlettebb funkciókat kínáljon.",
+
+  "modal.advertising.title": "Hirdetés és célzás",
+  "modal.advertising.desc": "Ezeket a sütiket releváns hirdetések megjelenítésére, gyakoriságuk korlátozására és a kampányok teljesítményének mérésére használjuk.",
+
+  "modal.save": "Beállítások mentése",
+  "modal.reject": "Összes elutasítása",
+  "modal.accept": "Összes elfogadása",
+
+  "modal.footer.pre": "Ezeket a beállításokat bármikor módosíthatod a",
+  "modal.footer.link": "Süti szabályzat oldalunkon",
+  "modal.footer.post": "vagy az oldal bal alsó sarkában található süti widget segítségével."
+}

@@ -1,0 +1,34 @@
+{
+  "banner.title": "Utilizamos cookies.",
+
+  "banner.message.start": "Ao clicar em «Aceitar tudo», concorda com o armazenamento de cookies no seu dispositivo para melhorar a navegação no site, analisar a utilização do site e apoiar os nossos esforços de marketing. Consulte a nossa",
+  "banner.message.link": "Política de cookies",
+  "banner.message.end": "para mais informações.",
+
+  "cta.prefs": "Preferências",
+  "cta.reject": "Rejeitar tudo",
+  "cta.accept": "Aceitar tudo",
+
+  "modal.title": "Gerir as suas preferências de cookies.",
+
+  "modal.essential.title": "Essenciais",
+  "modal.essential.state": "Sempre ativos",
+  "modal.essential.desc": "Estes cookies são necessários para o funcionamento do site, como memorizar as suas definições de privacidade, mantê-lo ligado ou permitir pagamentos seguros.",
+
+  "modal.performance.title": "Desempenho",
+  "modal.performance.desc": "Estes cookies ajudam-nos a compreender como os utilizadores utilizam o site para que possamos melhorá-lo.",
+
+  "modal.personalization.title": "Personalização",
+  "modal.personalization.desc": "Estes cookies permitem que o site memorize as suas preferências (como idioma ou região) e ofereça funcionalidades melhoradas.",
+
+  "modal.advertising.title": "Publicidade e segmentação",
+  "modal.advertising.desc": "Estes cookies são utilizados para lhe mostrar anúncios relevantes, limitar a frequência com que são exibidos e medir o desempenho das campanhas.",
+
+  "modal.save": "Guardar as minhas preferências",
+  "modal.reject": "Rejeitar tudo",
+  "modal.accept": "Aceitar tudo",
+
+  "modal.footer.pre": "Pode alterar estas definições a qualquer momento através da nossa",
+  "modal.footer.link": "página de Política de cookies",
+  "modal.footer.post": "ou através do widget de cookies localizado no canto inferior esquerdo da página."
+}

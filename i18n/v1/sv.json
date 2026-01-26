@@ -1,0 +1,34 @@
+{
+  "banner.title": "Vi använder cookies.",
+
+  "banner.message.start": "Genom att klicka på ”Acceptera alla” godkänner du lagring av cookies på din enhet för att förbättra navigeringen på webbplatsen, analysera användningen av webbplatsen och stödja våra marknadsföringsinsatser. Läs vår",
+  "banner.message.link": "Cookiepolicy",
+  "banner.message.end": "för mer information.",
+
+  "cta.prefs": "Inställningar",
+  "cta.reject": "Avvisa alla",
+  "cta.accept": "Acceptera alla",
+
+  "modal.title": "Hantera dina cookieinställningar.",
+
+  "modal.essential.title": "Nödvändiga",
+  "modal.essential.state": "Alltid aktiva",
+  "modal.essential.desc": "Dessa cookies är nödvändiga för att webbplatsen ska fungera korrekt, till exempel för att komma ihåg dina sekretessinställningar eller möjliggöra säkra betalningar.",
+
+  "modal.performance.title": "Prestanda",
+  "modal.performance.desc": "Dessa cookies hjälper oss att förstå hur besökare använder webbplatsen så att vi kan förbättra den.",
+
+  "modal.personalization.title": "Anpassning",
+  "modal.personalization.desc": "Dessa cookies gör det möjligt för webbplatsen att komma ihåg dina preferenser (t.ex. språk eller region) och erbjuda förbättrade funktioner.",
+
+  "modal.advertising.title": "Annonsering och målgruppsanpassning",
+  "modal.advertising.desc": "Dessa cookies används för att visa relevanta annonser, begränsa hur ofta de visas och mäta kampanjernas effektivitet.",
+
+  "modal.save": "Spara mina inställningar",
+  "modal.reject": "Avvisa alla",
+  "modal.accept": "Acceptera alla",
+
+  "modal.footer.pre": "Du kan när som helst ändra dessa inställningar via vår",
+  "modal.footer.link": "cookiepolicysida",
+  "modal.footer.post": "eller via cookiewidgeten längst ner till vänster på sidan."
+}

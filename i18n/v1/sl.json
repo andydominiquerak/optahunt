@@ -1,0 +1,34 @@
+{
+  "banner.title": "Uporabljamo piškotke.",
+
+  "banner.message.start": "S klikom na »Sprejmi vse« se strinjate s shranjevanjem piškotkov v vaši napravi za izboljšanje navigacije po spletnem mestu, analizo uporabe spletnega mesta in podporo našim marketinškim dejavnostim. Oglejte si našo",
+  "banner.message.link": "Politiko piškotkov",
+  "banner.message.end": "za več informacij.",
+
+  "cta.prefs": "Nastavitve",
+  "cta.reject": "Zavrni vse",
+  "cta.accept": "Sprejmi vse",
+
+  "modal.title": "Upravljanje nastavitev piškotkov.",
+
+  "modal.essential.title": "Nujni",
+  "modal.essential.state": "Vedno aktivni",
+  "modal.essential.desc": "Ti piškotki so potrebni za delovanje spletnega mesta, na primer za shranjevanje nastavitev zasebnosti ali omogočanje varnih plačil.",
+
+  "modal.performance.title": "Učinkovitost",
+  "modal.performance.desc": "Ti piškotki nam pomagajo razumeti, kako obiskovalci uporabljajo spletno mesto, da ga lahko izboljšamo.",
+
+  "modal.personalization.title": "Prilagajanje",
+  "modal.personalization.desc": "Ti piškotki omogočajo spletnemu mestu, da si zapomni vaše nastavitve (kot so jezik ali regija) in ponudi izboljšane funkcije.",
+
+  "modal.advertising.title": "Oglaševanje in ciljanje",
+  "modal.advertising.desc": "Ti piškotki se uporabljajo za prikazovanje ustreznih oglasov, omejevanje njihove pogostosti in merjenje uspešnosti kampanj.",
+
+  "modal.save": "Shrani moje nastavitve",
+  "modal.reject": "Zavrni vse",
+  "modal.accept": "Sprejmi vse",
+
+  "modal.footer.pre": "Te nastavitve lahko kadar koli spremenite prek naše",
+  "modal.footer.link": "strani s politiko piškotkov",
+  "modal.footer.post": "ali prek gradnika piškotkov v spodnjem levem kotu strani."
+}

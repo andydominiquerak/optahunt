@@ -1,0 +1,34 @@
+{
+  "banner.title": "Používáme soubory cookie.",
+
+  "banner.message.start": "Kliknutím na „Přijmout vše“ souhlasíte s ukládáním souborů cookie do vašeho zařízení za účelem zlepšení navigace na webu, analýzy používání webu a podpory našich marketingových aktivit. Podívejte se na naše",
+  "banner.message.link": "Zásady používání souborů cookie",
+  "banner.message.end": "pro více informací.",
+
+  "cta.prefs": "Předvolby",
+  "cta.reject": "Odmítnout vše",
+  "cta.accept": "Přijmout vše",
+
+  "modal.title": "Správa nastavení souborů cookie.",
+
+  "modal.essential.title": "Nezbytné",
+  "modal.essential.state": "Vždy aktivní",
+  "modal.essential.desc": "Tyto soubory cookie jsou nezbytné pro fungování webu, například pro zapamatování nastavení ochrany osobních údajů nebo umožnění bezpečných plateb.",
+
+  "modal.performance.title": "Výkon",
+  "modal.performance.desc": "Tyto soubory cookie nám pomáhají pochopit, jak návštěvníci web používají, abychom jej mohli zlepšit.",
+
+  "modal.personalization.title": "Personalizace",
+  "modal.personalization.desc": "Tyto soubory cookie umožňují webu zapamatovat si vaše preference (například jazyk nebo region) a poskytovat rozšířené funkce.",
+
+  "modal.advertising.title": "Reklama a cílení",
+  "modal.advertising.desc": "Tyto soubory cookie se používají k zobrazování relevantních reklam, omezení jejich frekvence a měření výkonu kampaní.",
+
+  "modal.save": "Uložit mé preference",
+  "modal.reject": "Odmítnout vše",
+  "modal.accept": "Přijmout vše",
+
+  "modal.footer.pre": "Tato nastavení můžete kdykoli změnit prostřednictvím našich",
+  "modal.footer.link": "Zásad používání souborů cookie",
+  "modal.footer.post": "nebo pomocí widgetu cookie v levém dolním rohu stránky."
+}

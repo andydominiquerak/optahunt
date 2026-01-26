@@ -1,0 +1,34 @@
+{
+  "banner.title": "Naudojame slapukus.",
+
+  "banner.message.start": "Spustelėję „Sutikti su visais“, sutinkate, kad slapukai būtų saugomi jūsų įrenginyje siekiant pagerinti svetainės naršymą, analizuoti svetainės naudojimą ir padėti mūsų rinkodaros pastangoms. Peržiūrėkite mūsų",
+  "banner.message.link": "Slapukų politiką",
+  "banner.message.end": "daugiau informacijos.",
+
+  "cta.prefs": "Nustatymai",
+  "cta.reject": "Atmesti viską",
+  "cta.accept": "Sutikti su visais",
+
+  "modal.title": "Slapukų nustatymų valdymas.",
+
+  "modal.essential.title": "Būtini",
+  "modal.essential.state": "Visada aktyvūs",
+  "modal.essential.desc": "Šie slapukai yra būtini tinkamam svetainės veikimui, pavyzdžiui, privatumo nustatymams išsaugoti ar saugiems mokėjimams atlikti.",
+
+  "modal.performance.title": "Našumas",
+  "modal.performance.desc": "Šie slapukai padeda mums suprasti, kaip lankytojai naudojasi svetaine, kad galėtume ją tobulinti.",
+
+  "modal.personalization.title": "Personalizavimas",
+  "modal.personalization.desc": "Šie slapukai leidžia svetainei prisiminti jūsų nuostatas (pvz., kalbą ar regioną) ir pasiūlyti patobulintas funkcijas.",
+
+  "modal.advertising.title": "Reklama ir taikymas",
+  "modal.advertising.desc": "Šie slapukai naudojami atitinkamoms reklamoms rodyti, jų dažnumui riboti ir kampanijų veiksmingumui matuoti.",
+
+  "modal.save": "Išsaugoti mano nustatymus",
+  "modal.reject": "Atmesti viską",
+  "modal.accept": "Sutikti su visais",
+
+  "modal.footer.pre": "Šiuos nustatymus galite bet kada pakeisti mūsų",
+  "modal.footer.link": "Slapukų politikos puslapyje",
+  "modal.footer.post": "arba naudodami slapukų valdiklį puslapio apačioje kairėje."
+}

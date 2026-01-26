@@ -1,0 +1,34 @@
+{
+  "banner.title": "Mēs izmantojam sīkdatnes.",
+
+  "banner.message.start": "Noklikšķinot uz “Pieņemt visu”, jūs piekrītat sīkdatņu saglabāšanai savā ierīcē, lai uzlabotu vietnes navigāciju, analizētu vietnes lietojumu un atbalstītu mūsu mārketinga aktivitātes. Skatiet mūsu",
+  "banner.message.link": "Sīkdatņu politiku",
+  "banner.message.end": "plašākai informācijai.",
+
+  "cta.prefs": "Iestatījumi",
+  "cta.reject": "Noraidīt visu",
+  "cta.accept": "Pieņemt visu",
+
+  "modal.title": "Sīkdatņu iestatījumu pārvaldība.",
+
+  "modal.essential.title": "Nepieciešamās",
+  "modal.essential.state": "Vienmēr aktīvas",
+  "modal.essential.desc": "Šīs sīkdatnes ir nepieciešamas vietnes pareizai darbībai, piemēram, lai atcerētos jūsu privātuma iestatījumus vai nodrošinātu drošus maksājumus.",
+
+  "modal.performance.title": "Veiktspēja",
+  "modal.performance.desc": "Šīs sīkdatnes palīdz mums saprast, kā apmeklētāji izmanto vietni, lai mēs to varētu uzlabot.",
+
+  "modal.personalization.title": "Personalizācija",
+  "modal.personalization.desc": "Šīs sīkdatnes ļauj vietnei atcerēties jūsu preferences (piemēram, valodu vai reģionu) un piedāvāt uzlabotas funkcijas.",
+
+  "modal.advertising.title": "Reklāma un mērķēšana",
+  "modal.advertising.desc": "Šīs sīkdatnes tiek izmantotas, lai rādītu atbilstošas reklāmas, ierobežotu to rādīšanas biežumu un mērītu kampaņu efektivitāti.",
+
+  "modal.save": "Saglabāt manus iestatījumus",
+  "modal.reject": "Noraidīt visu",
+  "modal.accept": "Pieņemt visu",
+
+  "modal.footer.pre": "Šos iestatījumus jebkurā laikā varat mainīt mūsu",
+  "modal.footer.link": "Sīkdatņu politikas lapā",
+  "modal.footer.post": "vai izmantojot sīkdatņu logrīku lapas apakšējā kreisajā stūrī."
+}

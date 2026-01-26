@@ -1,0 +1,34 @@
+{
+  "banner.title": "Käytämme evästeitä.",
+
+  "banner.message.start": "Klikkaamalla ”Hyväksy kaikki” hyväksyt evästeiden tallentamisen laitteellesi sivuston navigoinnin parantamiseksi, sivuston käytön analysoimiseksi ja markkinointitoimiemme tukemiseksi. Tutustu",
+  "banner.message.link": "evästekäytäntöömme",
+  "banner.message.end": "saadaksesi lisätietoja.",
+
+  "cta.prefs": "Asetukset",
+  "cta.reject": "Hylkää kaikki",
+  "cta.accept": "Hyväksy kaikki",
+
+  "modal.title": "Hallitse evästeasetuksia.",
+
+  "modal.essential.title": "Välttämättömät",
+  "modal.essential.state": "Aina käytössä",
+  "modal.essential.desc": "Nämä evästeet ovat välttämättömiä sivuston toiminnan kannalta, esimerkiksi yksityisyysasetusten muistamiseen tai turvallisten maksujen mahdollistamiseen.",
+
+  "modal.performance.title": "Suorituskyky",
+  "modal.performance.desc": "Nämä evästeet auttavat meitä ymmärtämään, miten kävijät käyttävät sivustoa, jotta voimme parantaa sitä.",
+
+  "modal.personalization.title": "Personointi",
+  "modal.personalization.desc": "Nämä evästeet mahdollistavat sivuston muistamaan asetuksesi (kuten kielen tai alueen) ja tarjoamaan parannettuja toimintoja.",
+
+  "modal.advertising.title": "Mainonta ja kohdentaminen",
+  "modal.advertising.desc": "Näitä evästeitä käytetään relevanttien mainosten näyttämiseen, niiden näyttökertojen rajoittamiseen ja kampanjoiden tehokkuuden mittaamiseen.",
+
+  "modal.save": "Tallenna asetukseni",
+  "modal.reject": "Hylkää kaikki",
+  "modal.accept": "Hyväksy kaikki",
+
+  "modal.footer.pre": "Voit muuttaa näitä asetuksia milloin tahansa",
+  "modal.footer.link": "evästekäytäntösivullamme",
+  "modal.footer.post": "tai sivun vasemmassa alakulmassa olevan eväste-widgetin kautta."
+}

@@ -1,0 +1,34 @@
+{
+  "banner.title": "Vi bruker informasjonskapsler.",
+
+  "banner.message.start": "Ved å klikke på «Godta alle» samtykker du til lagring av informasjonskapsler på enheten din for å forbedre navigasjonen på nettstedet, analysere bruken av nettstedet og støtte våre markedsføringstiltak. Se vår",
+  "banner.message.link": "informasjonskapselpolicy",
+  "banner.message.end": "for mer informasjon.",
+
+  "cta.prefs": "Innstillinger",
+  "cta.reject": "Avvis alle",
+  "cta.accept": "Godta alle",
+
+  "modal.title": "Administrer innstillinger for informasjonskapsler.",
+
+  "modal.essential.title": "Nødvendige",
+  "modal.essential.state": "Alltid aktive",
+  "modal.essential.desc": "Disse informasjonskapslene er nødvendige for at nettstedet skal fungere riktig, for eksempel for å huske personverninnstillinger eller muliggjøre sikre betalinger.",
+
+  "modal.performance.title": "Ytelse",
+  "modal.performance.desc": "Disse informasjonskapslene hjelper oss å forstå hvordan besøkende bruker nettstedet, slik at vi kan forbedre det.",
+
+  "modal.personalization.title": "Personalisering",
+  "modal.personalization.desc": "Disse informasjonskapslene gjør det mulig for nettstedet å huske preferansene dine (for eksempel språk eller region) og tilby forbedrede funksjoner.",
+
+  "modal.advertising.title": "Annonsering og målretting",
+  "modal.advertising.desc": "Disse informasjonskapslene brukes til å vise relevante annonser, begrense hvor ofte de vises og måle kampanjers ytelse.",
+
+  "modal.save": "Lagre mine innstillinger",
+  "modal.reject": "Avvis alle",
+  "modal.accept": "Godta alle",
+
+  "modal.footer.pre": "Du kan når som helst endre disse innstillingene via vår",
+  "modal.footer.link": "side for informasjonskapselpolicy",
+  "modal.footer.post": "eller via informasjonskapselwidgeten nederst til venstre på siden."
+}

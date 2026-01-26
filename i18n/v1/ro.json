@@ -1,0 +1,34 @@
+{
+  "banner.title": "Folosim cookie-uri.",
+
+  "banner.message.start": "Făcând clic pe „Acceptă tot”, ești de acord cu stocarea cookie-urilor pe dispozitivul tău pentru a îmbunătăți navigarea pe site, a analiza utilizarea site-ului și a sprijini eforturile noastre de marketing. Consultă",
+  "banner.message.link": "Politica de cookie-uri",
+  "banner.message.end": "pentru mai multe informații.",
+
+  "cta.prefs": "Preferințe",
+  "cta.reject": "Respinge tot",
+  "cta.accept": "Acceptă tot",
+
+  "modal.title": "Gestionează preferințele privind cookie-urile.",
+
+  "modal.essential.title": "Esențiale",
+  "modal.essential.state": "Întotdeauna active",
+  "modal.essential.desc": "Aceste cookie-uri sunt necesare pentru funcționarea corectă a site-ului, cum ar fi memorarea setărilor de confidențialitate sau permiterea plăților securizate.",
+
+  "modal.performance.title": "Performanță",
+  "modal.performance.desc": "Aceste cookie-uri ne ajută să înțelegem cum este utilizat site-ul pentru a-l putea îmbunătăți.",
+
+  "modal.personalization.title": "Personalizare",
+  "modal.personalization.desc": "Aceste cookie-uri permit site-ului să-ți rețină preferințele (cum ar fi limba sau regiunea) și să ofere funcționalități îmbunătățite.",
+
+  "modal.advertising.title": "Publicitate și targetare",
+  "modal.advertising.desc": "Aceste cookie-uri sunt utilizate pentru a afișa reclame relevante, a limita frecvența acestora și a măsura performanța campaniilor.",
+
+  "modal.save": "Salvează preferințele mele",
+  "modal.reject": "Respinge tot",
+  "modal.accept": "Acceptă tot",
+
+  "modal.footer.pre": "Poți modifica aceste setări oricând prin intermediul",
+  "modal.footer.link": "paginii Politica de cookie-uri",
+  "modal.footer.post": "sau prin widgetul de cookie-uri din colțul din stânga jos al paginii."
+}

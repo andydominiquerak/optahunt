@@ -1,0 +1,34 @@
+{
+  "banner.title": "Úsáidimid fianáin.",
+
+  "banner.message.start": "Trí chliceáil ar “Glac gach ceann”, aontaíonn tú le stóráil fianán ar do ghléas chun nascleanúint an tsuímh a fheabhsú, úsáid an tsuímh a anailísiú agus tacú lenár n-iarrachtaí margaíochta. Féach ar ár",
+  "banner.message.link": "Beartas Fianán",
+  "banner.message.end": "le haghaidh tuilleadh eolais.",
+
+  "cta.prefs": "Roghanna",
+  "cta.reject": "Diúltaigh gach ceann",
+  "cta.accept": "Glac gach ceann",
+
+  "modal.title": "Bainistigh roghanna fianán.",
+
+  "modal.essential.title": "Riachtanach",
+  "modal.essential.state": "I gcónaí gníomhach",
+  "modal.essential.desc": "Tá na fianáin seo riachtanach chun go bhfeidhmeoidh an suíomh i gceart, mar shampla chun socruithe príobháideachais a mheabhrú nó íocaíochtaí slána a chumasú.",
+
+  "modal.performance.title": "Feidhmíocht",
+  "modal.performance.desc": "Cabhraíonn na fianáin seo linn tuiscint a fháil ar an gcaoi a n-úsáideann cuairteoirí an suíomh chun é a fheabhsú.",
+
+  "modal.personalization.title": "Pearsanú",
+  "modal.personalization.desc": "Ligeann na fianáin seo don suíomh do roghanna a mheabhrú (mar shampla teanga nó réigiún) agus gnéithe feabhsaithe a sholáthar.",
+
+  "modal.advertising.title": "Fógraíocht agus spriocdhíriú",
+  "modal.advertising.desc": "Úsáidtear na fianáin seo chun fógraí ábhartha a thaispeáint, a minicíocht a theorannú agus feidhmíocht feachtais a thomhas.",
+
+  "modal.save": "Sábháil mo roghanna",
+  "modal.reject": "Diúltaigh gach ceann",
+  "modal.accept": "Glac gach ceann",
+
+  "modal.footer.pre": "Is féidir leat na socruithe seo a athrú am ar bith tríd ár",
+  "modal.footer.link": "leathanach beartais fianán",
+  "modal.footer.post": "nó tríd an ngiuirléid fianán ag bun ar chlé an leathanaigh."
+}

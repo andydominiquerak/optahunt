@@ -1,0 +1,34 @@
+{
+  "banner.title": "Utilizziamo i cookie.",
+
+  "banner.message.start": "Facendo clic su «Accetta tutto», acconsenti alla memorizzazione dei cookie sul tuo dispositivo per migliorare la navigazione del sito, analizzare l’utilizzo del sito e supportare le nostre attività di marketing. Consulta la nostra",
+  "banner.message.link": "Informativa sui cookie",
+  "banner.message.end": "per maggiori informazioni.",
+
+  "cta.prefs": "Preferenze",
+  "cta.reject": "Rifiuta tutto",
+  "cta.accept": "Accetta tutto",
+
+  "modal.title": "Gestisci le preferenze sui cookie.",
+
+  "modal.essential.title": "Essenziali",
+  "modal.essential.state": "Sempre attivi",
+  "modal.essential.desc": "Questi cookie sono necessari per il corretto funzionamento del sito, ad esempio per ricordare le impostazioni di privacy o consentire pagamenti sicuri.",
+
+  "modal.performance.title": "Prestazioni",
+  "modal.performance.desc": "Questi cookie ci aiutano a capire come gli utenti utilizzano il sito per migliorarne le prestazioni.",
+
+  "modal.personalization.title": "Personalizzazione",
+  "modal.personalization.desc": "Questi cookie consentono al sito di ricordare le tue preferenze (come lingua o regione) e fornire funzionalità avanzate.",
+
+  "modal.advertising.title": "Pubblicità e targeting",
+  "modal.advertising.desc": "Questi cookie vengono utilizzati per mostrarti annunci pertinenti, limitarne la frequenza e misurare le prestazioni delle campagne.",
+
+  "modal.save": "Salva le mie preferenze",
+  "modal.reject": "Rifiuta tutto",
+  "modal.accept": "Accetta tutto",
+
+  "modal.footer.pre": "Puoi modificare queste impostazioni in qualsiasi momento tramite la nostra",
+  "modal.footer.link": "pagina Informativa sui cookie",
+  "modal.footer.post": "oppure tramite il widget dei cookie in basso a sinistra della pagina."
+}

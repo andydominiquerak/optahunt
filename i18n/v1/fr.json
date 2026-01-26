@@ -1,0 +1,34 @@
+{
+  "banner.title": "Nous utilisons des cookies.",
+
+  "banner.message.start": "En cliquant sur « Tout accepter », vous acceptez le stockage de cookies sur votre appareil afin d’améliorer la navigation sur le site, d’analyser l’utilisation du site et d’aider nos efforts marketing. Consultez notre",
+  "banner.message.link": "Politique de cookies",
+  "banner.message.end": "pour plus d’informations.",
+
+  "cta.prefs": "Préférences",
+  "cta.reject": "Tout refuser",
+  "cta.accept": "Tout accepter",
+
+  "modal.title": "Gérer vos préférences en matière de cookies.",
+
+  "modal.essential.title": "Essentiels",
+  "modal.essential.state": "Toujours actifs",
+  "modal.essential.desc": "Ces cookies sont nécessaires au bon fonctionnement du site, par exemple pour mémoriser vos paramètres de confidentialité, vous maintenir connecté ou permettre des paiements sécurisés.",
+
+  "modal.performance.title": "Performance",
+  "modal.performance.desc": "Ces cookies nous aident à comprendre comment les visiteurs utilisent notre site afin d’en améliorer les performances.",
+
+  "modal.personalization.title": "Personnalisation",
+  "modal.personalization.desc": "Ces cookies permettent au site de mémoriser vos préférences (comme la langue ou la région) et d’offrir des fonctionnalités améliorées.",
+
+  "modal.advertising.title": "Publicité et ciblage",
+  "modal.advertising.desc": "Ces cookies sont utilisés pour vous proposer des publicités pertinentes, limiter leur fréquence et mesurer les performances des campagnes.",
+
+  "modal.save": "Enregistrer mes préférences",
+  "modal.reject": "Tout refuser",
+  "modal.accept": "Tout accepter",
+
+  "modal.footer.pre": "Vous pouvez modifier ces paramètres à tout moment via notre",
+  "modal.footer.link": "page Politique de cookies",
+  "modal.footer.post": "ou via le widget cookies situé en bas à gauche de la page."
+}

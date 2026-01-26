@@ -1,0 +1,34 @@
+{
+  "banner.title": "Usamos cookies.",
+
+  "banner.message.start": "Al hacer clic en «Aceptar todo», aceptas el almacenamiento de cookies en tu dispositivo para mejorar la navegación del sitio, analizar el uso del sitio y ayudar en nuestras iniciativas de marketing. Consulta nuestra",
+  "banner.message.link": "Política de cookies",
+  "banner.message.end": "para más información.",
+
+  "cta.prefs": "Preferencias",
+  "cta.reject": "Rechazar todo",
+  "cta.accept": "Aceptar todo",
+
+  "modal.title": "Gestionar tus preferencias de cookies.",
+
+  "modal.essential.title": "Esenciales",
+  "modal.essential.state": "Siempre activas",
+  "modal.essential.desc": "Estas cookies son necesarias para que el sitio web funcione correctamente, como recordar tus preferencias de privacidad, mantenerte conectado o permitir pagos seguros.",
+
+  "modal.performance.title": "Rendimiento",
+  "modal.performance.desc": "Estas cookies nos ayudan a entender cómo los usuarios utilizan el sitio para poder mejorarlo.",
+
+  "modal.personalization.title": "Personalización",
+  "modal.personalization.desc": "Estas cookies permiten que el sitio recuerde tus preferencias (como el idioma o la región) y ofrezca funciones mejoradas.",
+
+  "modal.advertising.title": "Publicidad y segmentación",
+  "modal.advertising.desc": "Estas cookies se utilizan para mostrarte anuncios relevantes, limitar la frecuencia con la que los ves y medir el rendimiento de las campañas.",
+
+  "modal.save": "Guardar mis preferencias",
+  "modal.reject": "Rechazar todo",
+  "modal.accept": "Aceptar todo",
+
+  "modal.footer.pre": "Puedes cambiar estos ajustes en cualquier momento a través de nuestra",
+  "modal.footer.link": "página de Política de cookies",
+  "modal.footer.post": "o mediante el widget de cookies situado en la parte inferior izquierda de la página."
+}

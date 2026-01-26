@@ -1,0 +1,34 @@
+{
+  "banner.title": "Koristimo kolačiće.",
+
+  "banner.message.start": "Klikom na „Prihvati sve“ pristajete na pohranu kolačića na vašem uređaju radi poboljšanja navigacije web-mjesta, analize korištenja web-mjesta i podrške našim marketinškim aktivnostima. Pogledajte našu",
+  "banner.message.link": "Politiku kolačića",
+  "banner.message.end": "za više informacija.",
+
+  "cta.prefs": "Postavke",
+  "cta.reject": "Odbij sve",
+  "cta.accept": "Prihvati sve",
+
+  "modal.title": "Upravljanje postavkama kolačića.",
+
+  "modal.essential.title": "Neophodni",
+  "modal.essential.state": "Uvijek aktivni",
+  "modal.essential.desc": "Ovi kolačići su potrebni za ispravno funkcioniranje web-mjesta, primjerice za pamćenje postavki privatnosti ili omogućavanje sigurnih plaćanja.",
+
+  "modal.performance.title": "Učinkovitost",
+  "modal.performance.desc": "Ovi kolačići pomažu nam razumjeti kako posjetitelji koriste web-mjesto kako bismo ga mogli poboljšati.",
+
+  "modal.personalization.title": "Personalizacija",
+  "modal.personalization.desc": "Ovi kolačići omogućuju web-mjestu da zapamti vaše postavke (poput jezika ili regije) i ponudi poboljšane značajke.",
+
+  "modal.advertising.title": "Oglašavanje i ciljanje",
+  "modal.advertising.desc": "Ovi kolačići koriste se za prikaz relevantnih oglasa, ograničavanje njihove učestalosti i mjerenje učinkovitosti kampanja.",
+
+  "modal.save": "Spremi moje postavke",
+  "modal.reject": "Odbij sve",
+  "modal.accept": "Prihvati sve",
+
+  "modal.footer.pre": "Ove postavke možete promijeniti u bilo kojem trenutku putem naše",
+  "modal.footer.link": "stranice Politike kolačića",
+  "modal.footer.post": "ili putem widgeta kolačića u donjem lijevom kutu stranice."
+}

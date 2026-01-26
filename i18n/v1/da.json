@@ -1,0 +1,34 @@
+{
+  "banner.title": "Vi bruger cookies.",
+
+  "banner.message.start": "Ved at klikke på »Accepter alle« accepterer du lagring af cookies på din enhed for at forbedre navigationen på webstedet, analysere brugen af webstedet og understøtte vores marketingindsats. Se vores",
+  "banner.message.link": "Cookiepolitik",
+  "banner.message.end": "for flere oplysninger.",
+
+  "cta.prefs": "Præferencer",
+  "cta.reject": "Afvis alle",
+  "cta.accept": "Accepter alle",
+
+  "modal.title": "Administrer dine cookieindstillinger.",
+
+  "modal.essential.title": "Nødvendige",
+  "modal.essential.state": "Altid aktive",
+  "modal.essential.desc": "Disse cookies er nødvendige for, at webstedet fungerer korrekt, f.eks. for at huske dine privatlivsindstillinger eller muliggøre sikre betalinger.",
+
+  "modal.performance.title": "Ydeevne",
+  "modal.performance.desc": "Disse cookies hjælper os med at forstå, hvordan besøgende bruger webstedet, så vi kan forbedre det.",
+
+  "modal.personalization.title": "Personalisering",
+  "modal.personalization.desc": "Disse cookies gør det muligt for webstedet at huske dine præferencer (såsom sprog eller region) og tilbyde forbedrede funktioner.",
+
+  "modal.advertising.title": "Annoncering og målretning",
+  "modal.advertising.desc": "Disse cookies bruges til at vise relevante annoncer, begrænse hvor ofte de vises og måle kampagners effektivitet.",
+
+  "modal.save": "Gem mine præferencer",
+  "modal.reject": "Afvis alle",
+  "modal.accept": "Accepter alle",
+
+  "modal.footer.pre": "Du kan til enhver tid ændre disse indstillinger via vores",
+  "modal.footer.link": "side om cookiepolitik",
+  "modal.footer.post": "eller via cookiewidgetten nederst til venstre på siden."
+}

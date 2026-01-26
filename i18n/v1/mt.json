@@ -1,0 +1,34 @@
+{
+  "banner.title": "Nużaw cookies.",
+
+  "banner.message.start": "Billi tikklikkja “Aċċetta kollox”, taqbel mal-ħażna tal-cookies fuq it-tagħmir tiegħek biex titjieb in-navigazzjoni tas-sit, tiġi analizzata l-użu tas-sit u jiġu appoġġjati l-isforzi ta’ kummerċjalizzazzjoni tagħna. Ara l-",
+  "banner.message.link": "Politika tal-cookies",
+  "banner.message.end": "għal aktar informazzjoni.",
+
+  "cta.prefs": "Preferenzi",
+  "cta.reject": "Irrifjuta kollox",
+  "cta.accept": "Aċċetta kollox",
+
+  "modal.title": "Immaniġġja l-preferenzi tal-cookies.",
+
+  "modal.essential.title": "Essenzjali",
+  "modal.essential.state": "Dejjem attivi",
+  "modal.essential.desc": "Dawn il-cookies huma meħtieġa biex is-sit jaħdem sew, bħat-tiftakar tal-preferenzi tal-privatezza jew biex jippermettu pagamenti siguri.",
+
+  "modal.performance.title": "Prestazzjoni",
+  "modal.performance.desc": "Dawn il-cookies jgħinuna nifhmu kif il-viżitaturi jużaw is-sit sabiex intejbuh.",
+
+  "modal.personalization.title": "Personalizzazzjoni",
+  "modal.personalization.desc": "Dawn il-cookies jippermettu lis-sit jiftakar il-preferenzi tiegħek (bħal lingwa jew reġjun) u joffri funzjonijiet imtejba.",
+
+  "modal.advertising.title": "Reklamar u mmirar",
+  "modal.advertising.desc": "Dawn il-cookies jintużaw biex jintwerew reklami rilevanti, jiġi limitat kemm-il darba jintwerew u jitkejjel il-prestazzjoni tal-kampanji.",
+
+  "modal.save": "Issejvja l-preferenzi tiegħi",
+  "modal.reject": "Irrifjuta kollox",
+  "modal.accept": "Aċċetta kollox",
+
+  "modal.footer.pre": "Tista’ tibdel dawn is-settings fi kwalunkwe ħin permezz tal-",
+  "modal.footer.link": "paġna tal-politika tal-cookies",
+  "modal.footer.post": "jew permezz tal-widget tal-cookies fil-qiegħ tax-xellug tal-paġna."
+}

@@ -1,0 +1,34 @@
+{
+  "banner.title": "Używamy plików cookie.",
+
+  "banner.message.start": "Klikając „Akceptuj wszystko”, wyrażasz zgodę na zapisywanie plików cookie na Twoim urządzeniu w celu usprawnienia nawigacji po stronie, analizy jej użycia oraz wsparcia naszych działań marketingowych. Zapoznaj się z naszą",
+  "banner.message.link": "Polityką plików cookie",
+  "banner.message.end": "aby uzyskać więcej informacji.",
+
+  "cta.prefs": "Preferencje",
+  "cta.reject": "Odrzuć wszystko",
+  "cta.accept": "Akceptuj wszystko",
+
+  "modal.title": "Zarządzaj preferencjami dotyczącymi plików cookie.",
+
+  "modal.essential.title": "Niezbędne",
+  "modal.essential.state": "Zawsze aktywne",
+  "modal.essential.desc": "Te pliki cookie są wymagane do prawidłowego działania strony, np. do zapamiętywania ustawień prywatności lub umożliwienia bezpiecznych płatności.",
+
+  "modal.performance.title": "Wydajność",
+  "modal.performance.desc": "Te pliki cookie pomagają nam zrozumieć, jak użytkownicy korzystają ze strony, abyśmy mogli ją ulepszać.",
+
+  "modal.personalization.title": "Personalizacja",
+  "modal.personalization.desc": "Te pliki cookie pozwalają stronie zapamiętać Twoje preferencje (np. język lub region) i oferować ulepszone funkcje.",
+
+  "modal.advertising.title": "Reklama i targetowanie",
+  "modal.advertising.desc": "Te pliki cookie służą do wyświetlania trafnych reklam, ograniczania ich częstotliwości oraz mierzenia skuteczności kampanii.",
+
+  "modal.save": "Zapisz moje preferencje",
+  "modal.reject": "Odrzuć wszystko",
+  "modal.accept": "Akceptuj wszystko",
+
+  "modal.footer.pre": "Możesz zmienić te ustawienia w dowolnym momencie za pośrednictwem naszej",
+  "modal.footer.link": "strony Polityki plików cookie",
+  "modal.footer.post": "lub za pomocą widżetu plików cookie w lewym dolnym rogu strony."
+}

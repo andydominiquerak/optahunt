@@ -1,0 +1,34 @@
+{
+  "banner.title": "Kasutame küpsiseid.",
+
+  "banner.message.start": "Klõpsates „Nõustu kõigega“, nõustute küpsiste salvestamisega oma seadmesse, et parandada saidi navigeerimist, analüüsida saidi kasutamist ja toetada meie turundustegevust. Vaadake meie",
+  "banner.message.link": "küpsiste poliitikat",
+  "banner.message.end": "lisateabe saamiseks.",
+
+  "cta.prefs": "Eelistused",
+  "cta.reject": "Keeldu kõigist",
+  "cta.accept": "Nõustu kõigega",
+
+  "modal.title": "Küpsiste eelistuste haldamine.",
+
+  "modal.essential.title": "Vajalikud",
+  "modal.essential.state": "Alati aktiivsed",
+  "modal.essential.desc": "Need küpsised on vajalikud veebisaidi korrektseks toimimiseks, näiteks privaatsusseadete meeldejätmiseks või turvaliste maksete võimaldamiseks.",
+
+  "modal.performance.title": "Jõudlus",
+  "modal.performance.desc": "Need küpsised aitavad meil mõista, kuidas külastajad veebisaiti kasutavad, et seda parandada.",
+
+  "modal.personalization.title": "Isikupärastamine",
+  "modal.personalization.desc": "Need küpsised võimaldavad veebisaidil meeles pidada teie eelistusi (nt keel või piirkond) ja pakkuda täiustatud funktsioone.",
+
+  "modal.advertising.title": "Reklaam ja sihtimine",
+  "modal.advertising.desc": "Neid küpsiseid kasutatakse asjakohaste reklaamide kuvamiseks, nende sageduse piiramiseks ja kampaaniate tõhususe mõõtmiseks.",
+
+  "modal.save": "Salvesta minu eelistused",
+  "modal.reject": "Keeldu kõigist",
+  "modal.accept": "Nõustu kõigega",
+
+  "modal.footer.pre": "Neid seadeid saate igal ajal muuta meie",
+  "modal.footer.link": "küpsiste poliitika lehel",
+  "modal.footer.post": "või lehe vasakus alanurgas oleva küpsisevidina kaudu."
+}

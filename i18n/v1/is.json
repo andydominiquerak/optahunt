@@ -1,0 +1,34 @@
+{
+  "banner.title": "Við notum vafrakökur.",
+
+  "banner.message.start": "Með því að smella á „Samþykkja allt“ samþykkir þú geymslu vafrakaka á tækinu þínu til að bæta vafur um vefinn, greina notkun vefsins og styðja markaðsstarf okkar. Skoðaðu",
+  "banner.message.link": "Vafrakökustefnuna",
+  "banner.message.end": "fyrir frekari upplýsingar.",
+
+  "cta.prefs": "Stillingar",
+  "cta.reject": "Hafna öllu",
+  "cta.accept": "Samþykkja allt",
+
+  "modal.title": "Stjórna vafrakökustillingum.",
+
+  "modal.essential.title": "Nauðsynlegar",
+  "modal.essential.state": "Alltaf virkar",
+  "modal.essential.desc": "Þessar vafrakökur eru nauðsynlegar fyrir rétta virkni vefsins, til dæmis til að muna persónuverndarstillingar eða leyfa öruggar greiðslur.",
+
+  "modal.performance.title": "Afköst",
+  "modal.performance.desc": "Þessar vafrakökur hjálpa okkur að skilja hvernig gestir nota vefinn svo við getum bætt hann.",
+
+  "modal.personalization.title": "Sérsnið",
+  "modal.personalization.desc": "Þessar vafrakökur gera vefnum kleift að muna stillingar þínar (svo sem tungumál eða svæði) og bjóða upp á betri virkni.",
+
+  "modal.advertising.title": "Auglýsingar og miðun",
+  "modal.advertising.desc": "Þessar vafrakökur eru notaðar til að sýna viðeigandi auglýsingar, takmarka birtingartíðni þeirra og mæla árangur herferða.",
+
+  "modal.save": "Vista stillingar mínar",
+  "modal.reject": "Hafna öllu",
+  "modal.accept": "Samþykkja allt",
+
+  "modal.footer.pre": "Þú getur breytt þessum stillingum hvenær sem er í gegnum",
+  "modal.footer.link": "vafrakökustefnusíðuna",
+  "modal.footer.post": "eða með vafrakökugræjunni neðst vinstra megin á síðunni."
+}
