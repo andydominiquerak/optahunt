@@ -1,0 +1,34 @@
+{
+  "banner.title": "We use cookies.",
+
+  "banner.message.start": "By clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. View our",
+  "banner.message.link": "Cookie Policy",
+  "banner.message.end": "for more information.",
+
+  "cta.prefs": "Preferences",
+  "cta.reject": "Reject All",
+  "cta.accept": "Accept All",
+
+  "modal.title": "Manage your cookie preferences.",
+
+  "modal.essential.title": "Essentials",
+  "modal.essential.state": "Always Active",
+  "modal.essential.desc": "These are required for the website to work, like remembering your privacy settings, keeping you logged in, or enabling secure payments.",
+
+  "modal.performance.title": "Performance",
+  "modal.performance.desc": "These help us understand how people use our site (like which pages are most popular) so we can make improvements.",
+
+  "modal.personalization.title": "Personalization",
+  "modal.personalization.desc": "These allow the site to remember your preferences (such as language or region) and provide enhanced features.",
+
+  "modal.advertising.title": "Advertising & Targeting",
+  "modal.advertising.desc": "These are used to deliver ads more relevant to you, limit how often you see them, and measure campaign performance.",
+
+  "modal.save": "Save my preferences",
+  "modal.reject": "Reject All",
+  "modal.accept": "Accept All",
+
+  "modal.footer.pre": "You can always change these settings later via our",
+  "modal.footer.link": "Cookie Policy page",
+  "modal.footer.post": "page, or via the cookie widget placed at the bottom left of the page."
+}
